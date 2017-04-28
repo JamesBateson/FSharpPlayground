@@ -51,6 +51,7 @@
     <Compile Include="Program.fs" />
     <None Include="App.config" />
     <None Include="1.fsx" />
+    <None Include="2.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
